@@ -1,8 +1,6 @@
 ### Hello world! I'm Sindélio but you can call me Sid 👋
 
-- 🔭 I’m currently working on 2 super cool projects
-  - One is an automated tool for tech talent acquisition #humans
-  - The other is a marketplace for ecological experiences #nature
+- 🔭 I’m currently working on a super cool project named [SourceLoop](https://www.sourceloop.io/), which mission is to build the best HR automated tools that operate at scale.
 - 🌱 I’m currently learning Bootstrap 4 and Angular
 - 👯 I’m looking to collaborate on innovation for the World
 - 🤔 I’m looking for help with saving the world
