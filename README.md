@@ -1,7 +1,7 @@
 ### Hello world! I'm Sindélio but you can call me Sid 👋
 
 - 🔭 I’m currently working on a super cool project named [SourceLoop](https://www.sourceloop.io/), which mission is to build the best HR automated tools that operate at scale!
-- 🌱 I’m currently learning Bootstrap 4 and Angular
+- 🌱 I’m currently learning about business and platforms
 - 👯 I’m looking to collaborate on innovation for the World
 - 🤔 I’m looking for help with saving the world
 - 💬 Ask me about software development, business development, Blockchains
